@@ -1,0 +1,33 @@
+[Unit]
+Description=Veterinary Clinic Management System Backend
+After=syslog.target network.target
+
+[Service]
+Type=simple
+User=ec2-user
+WorkingDirectory=/home/ec2-user/vet-clinic-aws/backend
+
+# Environment variables
+Environment="SPRING_PROFILES_ACTIVE=prod"
+Environment="DB_HOST=your-rds-endpoint.rds.amazonaws.com"
+Environment="DB_PORT=3306"
+Environment="DB_NAME=vetclinic"
+Environment="DB_USER=admin"
+Environment="DB_PASSWORD=YourSecurePassword"
+Environment="SERVER_PORT=8080"
+Environment="CORS_ORIGINS=https://your-cloudfront-domain.cloudfront.net,http://your-s3-bucket.s3-website-us-east-1.amazonaws.com"
+
+# Java command
+ExecStart=/usr/bin/java -jar /home/ec2-user/vet-clinic-aws/backend/target/vet-clinic-0.0.1-SNAPSHOT.jar
+
+# Restart policy
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=vet-clinic
+
+[Install]
+WantedBy=multi-user.target

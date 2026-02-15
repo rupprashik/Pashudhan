@@ -1,0 +1,11 @@
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\service\PatientService.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\VetClinicApplication.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\controller\AnalyticsController.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\controller\AppointmentController.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\model\Appointment.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\model\Patient.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\service\AppointmentService.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\repository\AppointmentRepository.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\repository\PatientRepository.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\controller\PatientController.java
+C:\vet-clinic-simple\backend\src\main\java\com\vetclinic\config\WebConfig.java

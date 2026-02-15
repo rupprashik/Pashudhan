@@ -1,0 +1,12 @@
+{
+  "name": "vet-clinic-simple",
+  "version": "1.0.0",
+  "description": "Simple Vet Clinic Frontend",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

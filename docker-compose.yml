@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  backend:
+    image: rupprashik/vet-clinic-backend:latest
+    container_name: vet-backend
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+      - DB_HOST=database-2.cd2eg2km28lw.eu-north-1.rds.amazonaws.com
+      - DB_PORT=3306
+      - DB_NAME=vetclinic
+      - DB_USER=admin
+      - DB_PASSWORD=rootmanager
+     - CORS_ORIGINS=http://13.62.253.76:3000
+    restart: unless-stopped
+    networks:
+      - vet-network
+
+  frontend:
+    image: rupprashik/vet-clinic-frontend:latest
+    container_name: vet-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - vet-network
+
+networks:
+  vet-network:
+    driver: bridge

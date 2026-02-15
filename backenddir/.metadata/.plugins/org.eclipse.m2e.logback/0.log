@@ -1,0 +1,289 @@
+2026-02-13 22:06:58,263 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-02-13 22:17:04,526 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-02-13 22:17:51,334 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.2.0/spring-boot-starter-parent-3.2.0.pom
+2026-02-13 22:17:51,447 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.2.0/spring-boot-starter-parent-3.2.0.pom
+2026-02-13 22:17:51,588 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.2.0/spring-boot-dependencies-3.2.0.pom
+2026-02-13 22:17:51,809 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.2.0/spring-boot-dependencies-3.2.0.pom
+2026-02-13 22:17:52,368 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.22/metrics-bom-4.2.22.pom
+2026-02-13 22:17:52,378 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.22/metrics-bom-4.2.22.pom
+2026-02-13 22:17:52,439 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.22/metrics-parent-4.2.22.pom
+2026-02-13 22:17:52,459 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.22/metrics-parent-4.2.22.pom
+2026-02-13 22:17:52,506 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/4.0.4/jaxb-bom-4.0.4.pom
+2026-02-13 22:17:52,520 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/4.0.4/jaxb-bom-4.0.4.pom
+2026-02-13 22:17:52,752 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.15/groovy-bom-4.0.15.pom
+2026-02-13 22:17:52,782 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.15/groovy-bom-4.0.15.pom
+2026-02-13 22:17:52,851 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom
+2026-02-13 22:17:52,872 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/14.0.21.Final/infinispan-bom-14.0.21.Final.pom
+2026-02-13 22:17:52,917 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/14.0.21.Final/infinispan-build-configuration-parent-14.0.21.Final.pom
+2026-02-13 22:17:52,958 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/14.0.21.Final/infinispan-build-configuration-parent-14.0.21.Final.pom
+2026-02-13 22:17:53,266 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.15.3/jackson-bom-2.15.3.pom
+2026-02-13 22:17:53,291 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.15.3/jackson-bom-2.15.3.pom
+2026-02-13 22:17:53,726 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/3.1.3/jersey-bom-3.1.3.pom
+2026-02-13 22:17:53,743 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/3.1.3/jersey-bom-3.1.3.pom
+2026-02-13 22:17:53,915 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-bom/12.0.3/jetty-ee10-bom-12.0.3.pom
+2026-02-13 22:17:53,941 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-bom/12.0.3/jetty-ee10-bom-12.0.3.pom
+2026-02-13 22:17:54,015 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/12.0.3/jetty-bom-12.0.3.pom
+2026-02-13 22:17:54,029 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/12.0.3/jetty-bom-12.0.3.pom
+2026-02-13 22:17:54,497 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.9.20/kotlin-bom-1.9.20.pom
+2026-02-13 22:17:54,518 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.9.20/kotlin-bom-1.9.20.pom
+2026-02-13 22:17:54,683 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.6.1/kotlinx-serialization-bom-1.6.1.pom
+2026-02-13 22:17:54,706 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.6.1/kotlinx-serialization-bom-1.6.1.pom
+2026-02-13 22:17:55,233 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.12.0/micrometer-bom-1.12.0.pom
+2026-02-13 22:17:55,322 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.12.0/micrometer-bom-1.12.0.pom
+2026-02-13 22:17:55,411 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bom/1.2.0/micrometer-tracing-bom-1.2.0.pom
+2026-02-13 22:17:55,470 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-tracing-bom/1.2.0/micrometer-tracing-bom-1.2.0.pom
+2026-02-13 22:17:55,641 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.101.Final/netty-bom-4.1.101.Final.pom
+2026-02-13 22:17:55,663 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.101.Final/netty-bom-4.1.101.Final.pom
+2026-02-13 22:17:55,967 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/23.3.0.23.09/ojdbc-bom-23.3.0.23.09.pom
+2026-02-13 22:17:55,983 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/23.3.0.23.09/ojdbc-bom-23.3.0.23.09.pom
+2026-02-13 22:17:56,230 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2023.0.0/reactor-bom-2023.0.0.pom
+2026-02-13 22:17:56,242 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2023.0.0/reactor-bom-2023.0.0.pom
+2026-02-13 22:17:56,653 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp-bom/3.1.0/spring-amqp-bom-3.1.0.pom
+2026-02-13 22:17:56,670 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp-bom/3.1.0/spring-amqp-bom-3.1.0.pom
+2026-02-13 22:17:56,763 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-bom/5.1.0/spring-batch-bom-5.1.0.pom
+2026-02-13 22:17:56,784 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-bom/5.1.0/spring-batch-bom-5.1.0.pom
+2026-02-13 22:17:56,870 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2023.1.0/spring-data-bom-2023.1.0.pom
+2026-02-13 22:17:56,887 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2023.1.0/spring-data-bom-2023.1.0.pom
+2026-02-13 22:17:56,988 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.1.1/spring-framework-bom-6.1.1.pom
+2026-02-13 22:17:57,008 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.1.1/spring-framework-bom-6.1.1.pom
+2026-02-13 22:17:57,085 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/6.2.0/spring-integration-bom-6.2.0.pom
+2026-02-13 22:17:57,110 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/6.2.0/spring-integration-bom-6.2.0.pom
+2026-02-13 22:17:57,571 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/6.2.0/spring-security-bom-6.2.0.pom
+2026-02-13 22:17:57,597 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/6.2.0/spring-security-bom-6.2.0.pom
+2026-02-13 22:17:57,718 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/3.2.0/spring-session-bom-3.2.0.pom
+2026-02-13 22:17:57,744 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/3.2.0/spring-session-bom-3.2.0.pom
+2026-02-13 22:17:57,860 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-bom/4.0.8/spring-ws-bom-4.0.8.pom
+2026-02-13 22:17:57,925 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-bom/4.0.8/spring-ws-bom-4.0.8.pom
+2026-02-13 22:17:58,031 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.19.3/testcontainers-bom-1.19.3.pom
+2026-02-13 22:17:58,055 [Worker-2: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.19.3/testcontainers-bom-1.19.3.pom
+2026-02-13 22:29:03,581 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2026-02-13 22:29:03,637 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2026-02-13 22:29:03,707 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/4/maven-archetype-bundles-4.pom
+2026-02-13 22:29:03,747 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/4/maven-archetype-bundles-4.pom
+2026-02-13 22:29:03,810 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetype/maven-archetype/2.0-alpha-5/maven-archetype-2.0-alpha-5.pom
+2026-02-13 22:29:03,853 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetype/maven-archetype/2.0-alpha-5/maven-archetype-2.0-alpha-5.pom
+2026-02-13 22:29:03,910 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2026-02-13 22:29:03,954 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2026-02-13 22:29:04,037 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2026-02-13 22:29:04,050 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2026-02-13 22:29:38,170 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [361])
+2026-02-13 22:29:38,174 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2026-02-13 22:29:38,175 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2026-02-13 22:29:38,176 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2026-02-13 22:29:38,177 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2026-02-13 22:29:38,178 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2026-02-13 22:29:38,178 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2026-02-13 22:29:38,179 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-13 22:29:38,179 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2026-02-13 22:29:38,180 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2026-02-13 22:29:38,180 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2026-02-13 22:29:38,181 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2026-02-13 22:29:38,181 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2026-02-13 22:29:38,182 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2026-02-13 22:29:38,182 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2026-02-13 22:29:38,183 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2026-02-13 22:29:38,183 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2026-02-13 22:29:38,184 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2026-02-13 22:29:38,184 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2026-02-13 22:29:38,185 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2026-02-13 22:29:38,185 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2026-02-13 22:29:38,186 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2026-02-13 22:29:38,186 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2026-02-13 22:29:38,187 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2026-02-13 22:29:38,187 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2026-02-13 22:29:38,188 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2026-02-13 22:29:38,189 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2026-02-13 22:29:38,189 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2026-02-13 22:29:38,190 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2026-02-13 22:29:38,191 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2026-02-13 22:29:38,191 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2026-02-13 22:29:38,192 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2026-02-13 22:29:38,192 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2026-02-13 22:29:38,193 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2026-02-13 22:29:38,193 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2026-02-13 22:29:38,194 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2026-02-13 22:29:38,196 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2026-02-13 22:29:38,196 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2026-02-13 22:29:38,198 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-13 22:29:38,198 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2026-02-13 22:29:38,199 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2026-02-13 22:29:38,200 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2026-02-13 22:29:38,200 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2026-02-13 22:29:38,201 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2026-02-13 22:29:38,201 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2026-02-13 22:29:38,205 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [29])
+2026-02-13 22:29:38,207 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\com.google.guava_33.4.0.jre.jar
+2026-02-13 22:29:38,207 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [608])
+2026-02-13 22:29:38,208 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\slf4j.api_2.0.17.jar
+2026-02-13 22:29:38,209 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [759])
+2026-02-13 22:29:38,209 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2026-02-13 22:29:38,209 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [758])
+2026-02-13 22:29:38,210 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2026-02-13 22:29:38,210 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [77])
+2026-02-13 22:29:38,211 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2026-02-13 22:29:38,211 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [79])
+2026-02-13 22:29:38,213 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-13 22:29:38,213 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2026-02-13 22:29:38,214 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-13 22:29:38,250 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ruppr\AppData\Local\Temp\m2e-archetypeGenerator13717588560711638649":
+2026-02-13 22:29:38,290 [Worker-4: Launching mavenrun-0a7cb1ea-ac9f-40ac-ac81-8ac3ab32bdbc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.vetclinic -DartifactId=vet-clinic -Dversion=0.0.1-SNAPSHOT -Dpackage=com.vetclinic.vet_clinic -DoutputDirectory=C:\Users\ruppr\Downloads\vet-clinic-simple -Dstyle.color=always -U archetype:generate
+2026-02-13 22:30:23,330 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\pom.xml
+2026-02-13 22:30:25,377 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vetclinic:vet-clinic:0.0.1-SNAPSHOT @ C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\pom.xml.
+2026-02-13 22:30:25,445 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2026-02-13 22:30:25,451 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2026-02-13 22:30:25,483 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2026-02-13 22:30:25,755 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2026-02-13 22:30:31,465 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vet-clinic/src/main/java
+2026-02-13 22:30:31,467 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vet-clinic/src/main/resources
+2026-02-13 22:30:31,473 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vet-clinic/src/test/java
+2026-02-13 22:30:31,475 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vet-clinic/src/test/resources
+2026-02-13 22:30:31,796 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2026-02-13 22:30:31,813 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2026-02-13 22:30:31,820 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2026-02-13 22:30:31,835 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2026-02-13 22:30:35,058 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\main\resources
+2026-02-13 22:30:35,065 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\test\resources
+2026-02-13 22:30:40,195 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-02-13 22:30:40,640 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vetclinic:vet-clinic:0.0.1-SNAPSHOT @ C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\pom.xml.
+2026-02-13 22:30:40,825 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vet-clinic/src/main/java
+2026-02-13 22:30:40,827 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vet-clinic/src/main/resources
+2026-02-13 22:30:40,828 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vet-clinic/src/test/java
+2026-02-13 22:30:40,829 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vet-clinic/src/test/resources
+2026-02-13 22:30:40,911 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-02-13 22:30:41,193 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\main\resources
+2026-02-13 22:30:41,200 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\test\resources
+2026-02-13 22:30:58,811 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-02-13 22:31:10,098 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [361])
+2026-02-13 22:31:10,100 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2026-02-13 22:31:10,101 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2026-02-13 22:31:10,101 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2026-02-13 22:31:10,101 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2026-02-13 22:31:10,102 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2026-02-13 22:31:10,102 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2026-02-13 22:31:10,103 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-13 22:31:10,103 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2026-02-13 22:31:10,103 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2026-02-13 22:31:10,104 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2026-02-13 22:31:10,104 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2026-02-13 22:31:10,104 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2026-02-13 22:31:10,105 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2026-02-13 22:31:10,105 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2026-02-13 22:31:10,105 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2026-02-13 22:31:10,105 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2026-02-13 22:31:10,106 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2026-02-13 22:31:10,106 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2026-02-13 22:31:10,107 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2026-02-13 22:31:10,107 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2026-02-13 22:31:10,108 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2026-02-13 22:31:10,108 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2026-02-13 22:31:10,109 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2026-02-13 22:31:10,109 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2026-02-13 22:31:10,109 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2026-02-13 22:31:10,109 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2026-02-13 22:31:10,111 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2026-02-13 22:31:10,112 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2026-02-13 22:31:10,112 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2026-02-13 22:31:10,112 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2026-02-13 22:31:10,112 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2026-02-13 22:31:10,113 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2026-02-13 22:31:10,115 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2026-02-13 22:31:10,115 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2026-02-13 22:31:10,116 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [29])
+2026-02-13 22:31:10,117 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\com.google.guava_33.4.0.jre.jar
+2026-02-13 22:31:10,117 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [608])
+2026-02-13 22:31:10,118 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\slf4j.api_2.0.17.jar
+2026-02-13 22:31:10,118 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [759])
+2026-02-13 22:31:10,119 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2026-02-13 22:31:10,119 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [758])
+2026-02-13 22:31:10,120 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2026-02-13 22:31:10,120 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [77])
+2026-02-13 22:31:10,121 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2026-02-13 22:31:10,121 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [79])
+2026-02-13 22:31:10,121 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-13 22:31:10,121 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2026-02-13 22:31:10,121 [Worker-13: Launching vet-clinic] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\STS\sts-4.30.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-13 22:31:10,124 [Worker-13: Launching vet-clinic] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic":
+2026-02-13 22:31:10,124 [Worker-13: Launching vet-clinic] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean compile
+2026-02-13 22:33:51,966 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\main\resources
+2026-02-13 22:33:51,972 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\test\resources
+2026-02-13 22:34:19,526 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\main\resources
+2026-02-13 22:34:19,530 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ruppr\Downloads\vet-clinic-simple\vet-clinic\src\test\resources
+2026-02-13 22:35:17,370 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project vet-clinic.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project vet-clinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-02-13 22:35:17,407 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project vet-clinic.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project vet-clinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-02-13 22:35:17,415 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project vet-clinic.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project vet-clinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

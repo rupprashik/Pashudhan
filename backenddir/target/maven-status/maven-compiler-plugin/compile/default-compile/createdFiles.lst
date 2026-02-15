@@ -1,0 +1,12 @@
+com\vetclinic\config\WebConfig$1.class
+com\vetclinic\controller\AppointmentController.class
+com\vetclinic\repository\AppointmentRepository.class
+com\vetclinic\VetClinicApplication.class
+com\vetclinic\repository\PatientRepository.class
+com\vetclinic\controller\AnalyticsController.class
+com\vetclinic\controller\PatientController.class
+com\vetclinic\model\Patient.class
+com\vetclinic\service\PatientService.class
+com\vetclinic\config\WebConfig.class
+com\vetclinic\model\Appointment.class
+com\vetclinic\service\AppointmentService.class

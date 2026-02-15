@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏥 Vet Clinic Management</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1>🏥 Vet Clinic Management System</h1>
+            <p>Record Management System</p>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <button class="nav-btn active" onclick="showTab('dashboard')">📊 Dashboard</button>
+            <button class="nav-btn" onclick="showTab('patients')">🐾 Patients</button>
+            <button class="nav-btn" onclick="showTab('appointments')">📅 Appointments</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content container">
+        
+        <!-- Dashboard Tab -->
+        <div id="dashboard" class="tab-content active">
+            <h2>📊 Dashboard</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon">🐾</div>
+                    <div class="stat-content">
+                        <h3 id="totalPatients">0</h3>
+                        <p>Total Patients</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📅</div>
+                    <div class="stat-content">
+                        <h3 id="todayAppointments">0</h3>
+                        <p>Today's Appointments</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🔔</div>
+                    <div class="stat-content">
+                        <h3 id="upcomingAppointments">0</h3>
+                        <p>Upcoming Appointments</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Patients Tab -->
+        <div id="patients" class="tab-content">
+            <div class="header-row">
+                <h2>🐾 Patients</h2>
+                <button class="btn-primary" onclick="togglePatientForm()">+ New Patient</button>
+            </div>
+
+            <!-- Patient Form -->
+            <div id="patientForm" class="form-container" style="display: none;">
+                <h3>Register New Patient</h3>
+                <form onsubmit="savePatient(event)">
+                    <div class="form-grid">
+                        <input type="text" id="animalName" placeholder="Animal Name *" required>
+                        <select id="species" required>
+                            <option value="">Select Species *</option>
+                            <option value="Dog">Dog</option>
+                            <option value="Cat">Cat</option>
+                            <option value="Cow">Cow</option>
+                            <option value="Buffalo">Buffalo</option>
+                            <option value="Goat">Goat</option>
+                            <option value="Sheep">Sheep</option>
+                            <option value="Horse">Horse</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        <input type="text" id="breed" placeholder="Breed">
+                        <input type="number" id="age" placeholder="Age (months)">
+                        <select id="gender">
+                            <option value="">Select Gender</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                        <input type="text" id="ownerName" placeholder="Owner Name *" required>
+                        <input type="tel" id="ownerPhone" placeholder="Owner Phone (10 digits) *" pattern="[0-9]{10}" required>
+                        <input type="text" id="ownerAddress" placeholder="Owner Address">
+                    </div>
+                    <textarea id="medicalHistory" placeholder="Medical History" rows="3"></textarea>
+                    <button type="submit" class="btn-primary">Register Patient</button>
+                    <button type="button" class="btn-secondary" onclick="togglePatientForm()">Cancel</button>
+                </form>
+            </div>
+
+            <!-- Search -->
+            <div class="search-bar">
+                <input type="text" id="patientSearch" placeholder="🔍 Search by animal or owner name..." onkeyup="searchPatients()">
+            </div>
+
+            <!-- Patients List -->
+            <div id="patientsList" class="cards-grid"></div>
+        </div>
+
+        <!-- Appointments Tab -->
+        <div id="appointments" class="tab-content">
+            <div class="header-row">
+                <h2>📅 Appointments</h2>
+                <button class="btn-primary" onclick="toggleAppointmentForm()">+ New Appointment</button>
+            </div>
+
+            <!-- Appointment Form -->
+            <div id="appointmentForm" class="form-container" style="display: none;">
+                <h3>Schedule New Appointment</h3>
+                <form onsubmit="saveAppointment(event)">
+                    <div class="form-grid">
+                        <select id="appointmentPatient" required>
+                            <option value="">Select Patient *</option>
+                        </select>
+                        <input type="datetime-local" id="appointmentDate" required>
+                        <input type="text" id="appointmentReason" placeholder="Reason for visit">
+                    </div>
+                    <textarea id="appointmentNotes" placeholder="Additional notes" rows="3"></textarea>
+                    <button type="submit" class="btn-primary">Schedule Appointment</button>
+                    <button type="button" class="btn-secondary" onclick="toggleAppointmentForm()">Cancel</button>
+                </form>
+            </div>
+
+            <!-- Appointments List -->
+            <div id="appointmentsList" class="table-container"></div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© 2024 Veterinary Clinic Management System</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="/js/config.js"></script>
+    <script src="/js/app.js"></script>
+</body>
+</html>
